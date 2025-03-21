@@ -15,7 +15,6 @@
 
 from oslo_log import log as logging
 
-from cinder.i18n import _
 from cinder.scheduler import filters
 from cinder.volume import volume_utils
 
